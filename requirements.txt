@@ -1,0 +1,6 @@
+ollama
+PyMuPDF
+python-docx
+openpyxl
+Pillow
+streamlit
